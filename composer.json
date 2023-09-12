@@ -1,0 +1,19 @@
+{
+    "name": "uiaciel/adminblog",
+    "description": "Halaman admin untuk backend blogsite laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uiaciel\\Adminblog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uiaciel",
+            "email": "uiaciel@gmail.com"
+        }
+    ],
+    "require": {}
+
+}
